@@ -11,4 +11,3 @@ Things you can do:
 
 Please email me at omer1789@gmail.com for any question or ideas for improvements.
 
-credit: "Electronic Music and Sound Design - Theory and Practice with Max & MSP - Volume 2 - Intrulude E Max For Live"  
