@@ -11,3 +11,4 @@ Things you can do:
 
 Please email me at omer1789@gmail.com for any question or ideas for improvements.
 
+Thanks to all cycling 74' community with helping and sharing their knowloedge.
